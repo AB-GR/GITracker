@@ -3,6 +3,21 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+/GITracker/GITracker.Android/bin/[Dd]ebug
+/GITracker/GITracker.Android/obj/[Dd]ebug
+/GITracker/packages
+/GITracker/.vs
+
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+Resource.designer.cs
+project.lock.json
+*.csproj.bak
+
+
 # User-specific files
 *.suo
 *.user
